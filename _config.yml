@@ -1,0 +1,18 @@
+url: https://about.colorveil.aurelitec.com
+
+title: About ColorVeil
+
+remote_theme: AurelitecSites/micrabout
+repository: AurelitecSites/about.colorveil
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      show_title: true
+      sized_quote: false
